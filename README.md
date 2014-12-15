@@ -13,9 +13,3 @@ sadasdas
 asdadssadasdas
 asdasd
 
-adada
-sdasdas
-asada
-asdasdasd
-asdasdassdsda
-asdadssa
