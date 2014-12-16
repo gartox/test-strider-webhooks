@@ -11,8 +11,5 @@ ssdasdas
 * hola saddasd
 sadasdas
 asdadssadasdas
-asdasd
-* asdasda
-* asdad
-* asdadada
+
 
